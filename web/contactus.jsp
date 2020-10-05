@@ -20,7 +20,7 @@
                <p class="mb-0"> 
     
                    Contact No. : 1234567890<br>
-                   Email Address : Notifyme35@gmail.com
+                   Email Address : abc35@xyz.com
                   <br><br>
                   Give Some Advice:    
                   <a href="feedback.jsp" class="btn btn-outline-info ">Feedback</a>
